@@ -8,14 +8,14 @@ disk, every prompt remembered in a JSON sidecar.
 
 In Claude Code, paste this:
 
-> Install the nano-banana skill from `https://github.com/Sneaky-Goat-Dev/nano-banana-claude-code-skill` into my Claude Code skills directory.
+> Install the nano-banana skill from `https://github.com/Adam-Berger-Dev/nano-banana-claude-code-skill` into my Claude Code skills directory.
 
 Claude will clone the repo to `~/.claude/skills/nano-banana/` and you're done.
 
 If you'd rather run it yourself:
 
 ```bash
-git clone https://github.com/Sneaky-Goat-Dev/nano-banana-claude-code-skill \
+git clone https://github.com/Adam-Berger-Dev/nano-banana-claude-code-skill \
     ~/.claude/skills/nano-banana
 ```
 
